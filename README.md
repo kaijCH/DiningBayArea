@@ -12,6 +12,8 @@
 
 - Location of Dining Site, Google map url provided would be preferred
 
+- People recording this exploration
+
 - Recommended dishes and general description
 
 - Pictures preferred
