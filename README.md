@@ -1,19 +1,12 @@
 # DiningBayArea
 
-## Breif
+## Brief
 
-- This repo temporary serve as collection of Dining locations in Bay Area. 
+- This repo temporary serve as collection of Dining locations in Bay Area
 
-- Exploration starts from Sunnyvale CA, currently concentrating on Asian Food and Barbeque.
+- Exploration starts from Sunnyvale CA, currently concentrating on Asian Food, Steakhouse, and Barbeque
+
 
 ## Template
 
-- Full Name of the Dining Site
-
-- Location of Dining Site, Google map url provided would be preferred
-
-- People recording this exploration
-
-- Recommended dishes and general description
-
-- Pictures preferred
+- referring to [TemplateCrusineBranch/TemplateDiningName/TemplateDiningName.md]
