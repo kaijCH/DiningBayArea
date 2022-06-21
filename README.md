@@ -9,4 +9,4 @@
 
 ## Template
 
-- referring [template here](TemplateCrusineBranch/TemplateDiningName/TemplateDiningName.md)
+- referring [template here](TemplateCrusineBranch)
