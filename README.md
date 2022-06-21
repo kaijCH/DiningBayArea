@@ -6,7 +6,6 @@
 
 - Exploration starts from Sunnyvale CA, currently concentrating on Asian Food, Steakhouse, and Barbeque
 
-
 ## Template
 
-- referring [template here](TemplateCrusineBranch)
+- Specifying [template structure here](TemplateCrusineBranch)
