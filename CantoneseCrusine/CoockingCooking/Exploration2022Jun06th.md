@@ -10,7 +10,7 @@
 
 ### Clam with Black Bean Sauce 豉椒炒蚬
 
-![Clam w/ Black Bean Sauce](pix2022Jun06th/clam_with_balck_bean_sauce.jpeg)
+![Clam w/ Black Bean Sauce](Pix2022Jun06th/clam_with_balck_bean_sauce.jpeg)
 
 - 花蛤鲜嫩饱满，汤汁香辣浓郁
 
