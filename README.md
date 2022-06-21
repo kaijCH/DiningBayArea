@@ -1,4 +1,4 @@
-# DiningBayArea
+# Dining @ Bay Area
 
 ## Brief
 
