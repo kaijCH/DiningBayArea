@@ -6,7 +6,7 @@
 
 - <https://cooking-cooking.business.site/?utm_source=gmb&utm_medium=referral>
 
-## Crusine 菜系
+## Cuisine 菜系
 
 - Cantonese 粤菜
 
