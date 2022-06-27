@@ -8,4 +8,4 @@
 
 ## Template
 
-- Specifying [template structure here](TemplateCrusineBranch)
+- Specifying [template structure here](Template_CuisineBranch)

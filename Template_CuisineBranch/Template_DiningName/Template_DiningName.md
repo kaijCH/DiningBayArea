@@ -12,6 +12,6 @@
 
 ### Specific Item 某品
 
-![Item](TemplatePixDatetime/TemplateDatetime001.jpg)
+![Item](Template_PixDatetime/TemplateDatetime001.jpg)
 
 - Specific Brief Comment 评价
