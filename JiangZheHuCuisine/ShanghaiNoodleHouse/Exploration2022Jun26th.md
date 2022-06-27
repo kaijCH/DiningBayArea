@@ -8,7 +8,7 @@
 
 ### Special Eel Noodle Soup 膳糊面
 
-![Special Eel Noodle Soup](Pix2022Jun26th/special_eel_noodle_soup.jpg.jpg)
+![Special Eel Noodle Soup](Pix2022Jun26th/special_eel_noodle_soup.jpg)
 
 - 鳝鱼非常新鲜
 
