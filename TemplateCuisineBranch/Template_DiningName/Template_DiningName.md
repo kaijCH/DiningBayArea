@@ -1,17 +1,19 @@
 # Dining Name 店名
 
-## Location 地址
+## Location 地址 (multiple dining site could be available for any identical dining entity name)
 
 - [1600 Amphitheatre Pkwy, Mountain View, CA 94043](https://goo.gl/maps/arU8bMuSbu7AKZwK9)
 
-## Crusine 菜系
+- [399 N Whisman Rd, Mountain View, CA 94043](https://goo.gl/maps/wDUMpzyQiRzBLhZi6)
 
-- SpecificBranch 分类
+## Cuisine 菜系
+
+- Specific Branch 分类
 
 ## General Recommendation (should be updated manually from each visit record)
 
 ### Specific Item 某品
 
-![Item](Template_PixDatetime/TemplateDatetime001.jpg)
+![Specific Item](Template_PixDatetime/Template_item.jpg)
 
-- Specific Brief Comment 评价
+- Brief Comment 评价
