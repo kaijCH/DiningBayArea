@@ -59,14 +59,6 @@
 - 可以自己选裹什么吃，比如三文鱼、金枪鱼之类（这次吃的是金枪鱼）
 - 但是确实味道一般
 
-### Shanghai Style Pot Stickers 上海生煎包
-
-![Sesame Sauce Noodle](Pix2022Jun26th/shanghai_style_pot_stickers.jpg)
-
-- 汤还是可以的
-
-- 底太硬了，有点划喉咙
-
 ## Shit Holes 避坑指南
 
 暂未发现
