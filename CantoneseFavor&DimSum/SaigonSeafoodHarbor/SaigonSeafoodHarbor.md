@@ -14,7 +14,7 @@
 
 ### Salt & Pepper Longfin Smelt 椒盐多春鱼
 
-![Item](Pix2022Jul23rd/Salt_%26_Pepper_Longfin_Smelt.jpeg)
+![Salt & Pepper Longfin Smelt](Pix2022Jul23rd/Salt_%26_Pepper_Longfin_Smelt.jpeg)
 
 - 裹粉油炸的做法与想象中略有不同，外层咸香微辣口感鲜明，又完全不夺多春鱼本身油炸的鲜香
 
@@ -24,7 +24,7 @@
 
 ### Spanished & Reserved Eggs in Broth 金银蛋上汤菠菜
 
-![Item](Pix2022Jul23rd/Spinach_%26_Reserved_Eggs_in_Broth.jpeg)
+![Spanished & Reserved Eggs in Broth](Pix2022Jul23rd/Spinach_%26_Reserved_Eggs_in_Broth.jpeg)
 
 - 菠菜的选料完全没有限制上汤青菜这个题材的发挥，味道咸淡适宜，不枪其他菜肴口味
 

@@ -28,7 +28,7 @@
 
 ### Unagi Meshi 鳗鱼饭（必点）
 
-![Shrimp Tenpura](Pix2022Jun11st/Unagi_Meshi.jpg)
+![Unagi Meshi](Pix2022Jun11st/Unagi_Meshi.jpg)
 
 - 强推！
 - 他们家的招牌！
@@ -41,8 +41,6 @@
 ![Yaki Udon](Pix2022Jun11st/Yaki_Udon.jpg)
 
 - 乌冬面这种粗面条向来是我的最爱
-
-
 
 ## Soso 一般般
 

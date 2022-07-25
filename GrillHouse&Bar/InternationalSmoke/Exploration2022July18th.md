@@ -12,14 +12,14 @@
 
 ### Corn Bread 玉米面包
 
-![Item](Pix2022July18th/Corn_Bread.jpg)
+![Corn Bread](Pix2022July18th/Corn_Bread.jpg)
 
 - 口味方面倒不是特别好吃
 - 加了龙虾酱和咖喱，使得整个面包的口味变得非常神秘，充满异域风情，这个酱可能是绝大多数人从来都没有尝试过的味道，推荐
 
-### KOREAN GOCHUJANG STYLE RIBS 韩式苦椒酱烤猪小排
+### Korean Gochujang Style Ribs 韩式苦椒酱烤猪小排
 
-![Item](Pix2022July18th/KOREAN%20GOCHUJANG%20STYLE%20RIBS.jpg)
+![Korean Gochujang Style Ribs](Pix2022July18th/KOREAN%20GOCHUJANG%20STYLE%20RIBS.jpg)
 
 - 非常推荐的招牌之一
 - 火候恰到好处
@@ -29,15 +29,15 @@
 
 ### Maine Lobster MAC 缅因龙虾通心粉&芝士
 
-![Item](Pix2022July18th/Maine_Lobster_MAC.jpg)
+![Maine Lobster MAC](Pix2022July18th/Maine_Lobster_MAC.jpg)
 
 - 直接放了龙虾肉在上面，鲜味十足
 - 整个菜由于放了很多很多芝士的原因，光闻着香味就让人食欲大开
 - 不宜一次吃太多，否则可能会觉得腻
 
-### SMOKED KOREAN BONE-IN SHORT RIB 韩式慢烤牛排骨
+### Smoked Korean Bone-in Short Rib 韩式慢烤牛排骨
 
-![Item](Pix2022July18th/SMOKED%20KOREAN%20BONE-IN%20SHORT%20RIB.jpg)
+![Smoked Korean Bone-in Short Rib](Pix2022July18th/SMOKED%20KOREAN%20BONE-IN%20SHORT%20RIB.jpg)
 
 - 最好吃的菜！强推！必点！
 - 这个牛肉虽然不是和牛，但是有和牛的口感和香味，口感来说感觉有点“松散结构”（也就是中间部分结构是中空的）的样子，而不像普通牛肉肉质可能会比较紧一点，怀疑可能是熟成的牛肉，几乎可以说的上是入口即化，并且非常多汁。总而言之口感非常独特，这也和慢烤有一定关系，火候掌握的非常精准
@@ -45,9 +45,9 @@
 - 吃的时候香气扑鼻、口感软嫩多汁、口味恰到好处，能够赋予人极大的满足感
 - 饭和泡菜真的很难吃，但是有这个牛肉谁还在意那两个呢，当个装饰品就好
 
-### WOOD-FIRED ROASTED SALMON 炭火烤三文鱼
+### Wood-Fired Roasted Salmon 炭火烤三文鱼
 
-![Item](Pix2022July18th/WOOD-FIRED%20ROASTED%20SALMON.jpg)
+![Wood-Fired Roasted Salmon](Pix2022July18th/WOOD-FIRED%20ROASTED%20SALMON.jpg)
 
 - 鱼皮炙烤轻微焦脆
 - 内部的鱼肉还能保持多汁的状态

@@ -28,13 +28,13 @@
 
 ### Shanghai Style Bun 上海小笼包
 
-![Sesame Sauce Noodle](Pix2022Jun26th/shanghai_style_bun.jpg)
+![Shanghai Style Bun](Pix2022Jun26th/shanghai_style_bun.jpg)
 
 - 比较正宗的小笼汤包
 
 ### Shanghai Style Chow Mein 上海粗炒面
 
-![Sesame Sauce Noodle](Pix2022Jun26th/shanghai_style_chow_mein.jpg)
+![Shanghai Style Chow Mein](Pix2022Jun26th/shanghai_style_chow_mein.jpg)
 
 - 味香浓郁
 
@@ -44,7 +44,7 @@
 
 ### Shanghai Style Pot Stickers 上海生煎包
 
-![Sesame Sauce Noodle](Pix2022Jun26th/shanghai_style_pot_stickers.jpg)
+![Shanghai Style Pot Stickers](Pix2022Jun26th/shanghai_style_pot_stickers.jpg)
 
 - 汤还是可以的
 

@@ -12,8 +12,6 @@
 
 ## General Recommendation 推荐
 
-
-
 ### Agedashi Tofu 炸豆腐
 
 ![Agedashi Tofu](Pix2022Jun11st/Agedashi_Tofu.jpg)
@@ -49,8 +47,6 @@
 ![Yaki Udon](Pix2022Jun11st/Yaki_Udon.jpg)
 
 - 乌冬面这种粗面条向来是我的最爱
-
-
 
 ## Soso 一般般
 
