@@ -6,12 +6,6 @@
 
 - Cuisine: Sichuan Cuisine
 
-## Kunjip Santa Clara
-
-- Location: [1066 Kiely Blvd, Santa Clara, CA 95051](https://www.google.com/maps/place/Kunjip/@37.3457881,-121.9809634,17z/data=!3m1!4b1!4m5!3m4!1s0x808fca6e7c69bf3b:0x4928c94688a8794e!8m2!3d37.3458572!4d-121.9787835)
-
-- Cuisine: Korean Cuisine
-
 ## New England Lobster Market & Eatery
 
 - [824 Cowan Rd, Burlingame, CA 94010](https://g.page/NewEnglandLobster?share)
@@ -30,9 +24,21 @@
 
 - Cuisine: Cantonese Breakfast
 
-
 ## Sun Kwong Restaurant
 
 - [1400 Jackson St, San Francisco, CA 94109](https://g.page/SunKwongSF?share)
 
 - Cuisine: Hongkong Cafe
+
+## Flour + Water
+
+- [2401 Harrison St, San Francisco, CA 94110](https://goo.gl/maps/PptZU22oizA1tkRY9)
+
+- Cuisine: Italian Restaurant
+
+## San Ho Won
+
+- [2170 Bryant St, San Francisco, CA 94110](https://goo.gl/maps/td2gKPp3BxAkD5YAA)
+
+- Cuisine: Korean Restaurant
+
