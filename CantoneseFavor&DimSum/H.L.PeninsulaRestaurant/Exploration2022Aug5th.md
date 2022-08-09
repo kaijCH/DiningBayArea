@@ -1,26 +1,14 @@
-# H. L. Peninsula Restaurant 半岛豪苑酒家
+# Visit Datetime: 2022-08-05
 
-## Location 地址
+## Explorer @tengyi
 
-- [136 Ranch Dr, Milpitas, CA 95035](https://goo.gl/maps/MRWQyg8sNtph8uCp9)
+## Overall Score 体验评分: 7/10
 
-## Crusine 菜系
+- 有很好吃的菜
+- 也有比较坑的菜
+大多比较平均
 
-- Dim Sum 粤式早茶
-
-## General Recommendation 推荐
-
-### Pan Seared Mackerel Fish 烤青花鱼
-
-![Pan Seared Mackerel Fish](Pix2022Jun24th/pan_seared_mackerel_fish.jpeg)
-
-- 鱼皮炙烤轻微焦脆，而青花鱼肉却依旧不失鲜美滋味，印象深刻
-
-### Shrimp Dumpling 招牌虾饺
-
-![Shrimp Dumpling](Pix2022Jun24th/shrimp_dumpling.jpeg)
-
-- 饺皮薄嫩不粘连，与他处相比惊喜亦难得
+## Current Exploration 当前探索
 
 ### Two-Styles Channel Rook Cod 红龙斑两吃
 
@@ -51,7 +39,6 @@
 
 - 虽然是饭后送的甜点，但是甜得恰到好处的红豆粥谁又不想再来一碗呢？
 
-## Soso 一般
 ### Crispy Roasted Squab 玻璃乳鸽
 
 ![Crispy Roasted Squab](Pix2022Aug5th/Crispy%20Roasted%20Squab%20.jpg)
@@ -68,8 +55,6 @@
 - 上菜等了那么半天，牛肉并没有被烧烂
 - 有一股很浓重的牛肉味，感觉像是去腥工作没做好
 - 如果没吃过internationa smoke的牛肋排，可能觉得挺好的，有对比后最多只能放到中等了
-
-## Shit Holes 避坑指南
 
 ### Roasted Pork Belly 冰烧三层肉（烧腩仔）
 
