@@ -40,18 +40,23 @@
 ## Soso 一般
 
 ### Shrimp and Pork Siu Mai 虾饺
+
 ![Shrimp and Pork Siu Mai](Pix2022July24th/Shrimp_and_Pork_Siu_Mai.jpg)
 
 - 属于发挥中规中矩的烧麦，虾虽然很新鲜，但是调味和火候掌握没有太到位
 
 ### Steamed Pork Ribs with Plum Sauce 苏梅酱蒸排骨
+
 ![Steamed Pork Ribs with Plum Sauce](Pix2022July24th/Steamed_Pork_Ribs_with_Plum_Sauce.jpg)
 
 - 青椒的味道实在是太冲了，并且辣度过高，吃这个本来应该是清淡菜的时候没能吃到排骨和酱的香味，反而是一股冲天的冲味。
 
 ## Shit Holes 避坑指南
+
 ### Scallop Dumpling 扇贝饺子
+
 ![Scallop Dumpling](Pix2022July24th/Scallop_Dumpling.jpg)
 
 - 这么好吃的扇贝在香菜的味道下已经没有任何海鲜的鲜味、海味了
+
 - 香菜的量是致死量
