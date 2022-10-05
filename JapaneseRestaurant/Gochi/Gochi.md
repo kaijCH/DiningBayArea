@@ -1,4 +1,4 @@
-# Shanghai Noodle House
+# Gochi 
 
 ## Location 地址
 
