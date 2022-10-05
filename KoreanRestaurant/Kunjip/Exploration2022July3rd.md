@@ -6,7 +6,7 @@
 
 ## Current Exploration 当前探索
 
-### Cheese Maeun Galbi Jjim 芝士红烩蒸牛排骨
+### Cheese Maeun Galbi Jjim 芝士红烩燉牛肋排
 
 ![Cheese Maeun Galbi Jjim](Pix2022July3rd/Cheese_Maeun_Galbi_Jjim.jpg)
 
@@ -16,16 +16,16 @@
 - 牛肉非常软烂，入口满满的是辣椒、芝士和牛肉本身的香味，他们的混合不仅没有压住牛肉的味道，反而聚在一起爆发出更大的香味
 - 注意是四人份的量
 
-### Galbi_Tang 蛋丝红枣香葱牛排骨粉丝汤
+### Galbi Tang 蛋丝红枣香葱牛排骨粉丝汤
 
-![Galbi_Tang](Pix2022July3rd/Galbi_Tang.jpg)
+![Galbi Tang](Pix2022July3rd/Galbi_Tang.jpg)
 
 - 清汤
 - 牛骨飘香
 
 ### Kko Ri Gom Tang 牛尾香葱红枣汤
 
-![Kko_Ri_Gom_Tang](Pix2022July3rd/Kko_Ri_Gom_Tang.jpg)
+![Kko Ri Gom Tang](Pix2022July3rd/Kko_Ri_Gom_Tang.jpg)
 
 - 浓汤
 - 加点白胡椒味道更好

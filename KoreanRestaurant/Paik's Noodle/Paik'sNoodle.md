@@ -1,4 +1,4 @@
-# Cooking Cooking 味中味
+# Paik's Noodle
 
 ## Location 地址
 

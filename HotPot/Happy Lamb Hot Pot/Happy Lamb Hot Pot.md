@@ -1,4 +1,4 @@
-# Cooking Cooking 味中味
+# Happy Lamb Hot Pot 快乐小羊火锅店（小肥羊）
 
 ## Location 地址
 

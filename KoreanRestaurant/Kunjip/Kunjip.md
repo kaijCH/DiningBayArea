@@ -37,6 +37,19 @@
 - 加点白胡椒味道更好
 - 不知道为什么，但是牛骨汤目前吃过的好像都不错，牛骨的味道很重
 
+### Dogani Sooyook 水煮牛筋板
+
+![Dogani Sooyook](Pix2022Sep5th/Dogani_Sooyook.jpg)
+
+- 是真的一点味道没有，准备好盐往里倒一些吧。
+- 香味还是很浓郁的
+
+### Maeun Galbi Jjim 韩式辣味燉牛肋排
+
+![Maeun Galbi Jjim](Pix2022Sep5th/Maeun_Galbi_Jjim(Spicy).jpg)
+
+- 虽然没有芝士红烩燉牛肋排香，但是更带劲，辣味较大，容易喷射，小心！味道还是一样的好。
+
 ## Soso 一般般
 暂无
 
