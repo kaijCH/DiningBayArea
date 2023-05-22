@@ -13,6 +13,8 @@
 ![原味老坛酸菜鱼](Pix2022Sep3rd/%E5%8E%9F%E5%91%B3%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E9%B1%BC.jpg)
 
 - 味道很正，香味浓郁，汤汁不会太酸太咸，甚至还可以喝一点汤汁。微酸微辣很开胃。
+- 鱼肉选择巴沙口感非常非常好，默认微辣的作法让这道菜很适合成为主菜
+- 默认的鱼肉份量稍少仅比两人份稍多，如果更多聚餐同行则建议多点一个青椒老坛酸菜鱼双倍过瘾
 
 ### 清炒丝瓜
 
@@ -25,6 +27,21 @@
 ![糍粑冰粉](Pix2022Sep3rd/%E7%B3%8D%E7%B2%91%E5%86%B0%E7%B2%89.jpg)
 
 - 非常传统的四川糍粑冰粉，味道很正，川菜必备。
+- 冰凉，甜度适宜，相当不错的甜品，不止解辣
+
+### Sliced Beef Combination in Spicy Sauce 夫妻肺片
+
+![Sliced Beef Combination in Spicy Sauce](Pix2022Oct09th/sliced_beef_combination_in_spicy_sauce.jpeg)
+
+- 香辣适宜自然，没有其他地方辣得很工业的感觉
+
+- 刀法比较"精细"，很"耐"夹，当开胃前菜很合适
+
+### Yuxiang Shredded Pork 鱼香肉丝
+
+![Yuxiang Shredded Pork](Pix2022Oct09th/yuxiang_shredded_pork.jpeg)
+
+- 中规中矩的菜品，下饭程度不错
 
 ## Soso 一般
 

@@ -92,6 +92,41 @@
 
 - 必吃！太好吃了！口感超级细腻，调味恰到好处。
 
+### Agedashi Tofu 炸豆腐
+
+![Agedashi_Tofu](Pix2022Dec14th/Agedashi_Tofu.jpg)
+
+- 日式的炸豆腐味道还是相当稳定的。基本上属于是可以无脑点的一道菜。
+
+### Eggplant with Sweet Miso 油炸茄子配甜味增汤
+
+![Eggplant_with_Sweet_Miso](Pix2022Dec14th/Eggplant_with_Sweet_Miso.jpg)
+
+- 茄子和入味，并且很香，青椒是不辣的，可以放心食用。
+- 唯一的缺点是稍微有点油（虽然油炸茄子很难不油）
+
+### House Made Tofu 手工豆腐
+
+![House_Made_Tofu](Pix2022Dec14th/House_Made_Tofu.jpg)
+
+- 豆腐的豆香味非常浓郁，非常好吃！
+- 非常清淡（无盐无油），口味比较重的老哥慎点。
+
+### Karasumi 干乌鱼子饭？
+
+![Karasumi](Pix2022Dec14th/Karasumi.jpg)
+
+- 鱼子没什么腥味，饭在紫菜的帮助下还增添了鲜味。
+- 有点忘记是什么菜了，建议到场询问，味道还是很不错的。
+
+### Salmon Chazuke 高汤三文鱼饭
+
+![Salmon_Chazuke](Pix2022Dec14th/Salmon_Chazuke.jpg)
+
+- 三文鱼非常新鲜。
+- 厨师刀工很好，切得很薄，看上去十分美观。
+- 这种菜一般都看三文鱼的品质了，只要三文鱼品质好就行。
+
 ## Soso 一般般
 
 ### Handmade Soba Kamo Nanban 荞麦面鸭南蛮
