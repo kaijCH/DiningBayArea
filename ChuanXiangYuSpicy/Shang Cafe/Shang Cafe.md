@@ -3,6 +3,7 @@
 ## Location 地址
 
 - [6154 Bollinger Rd, San Jose, CA 95129](https://goo.gl/maps/2u1ajfVJg3S46hka8)
+- [43749 Boscell Rd, Fremont, CA 94538](https://goo.gl/maps/CVThXWuCiESrj9Er8)
 
 - <http://4083202876.com/>
 
